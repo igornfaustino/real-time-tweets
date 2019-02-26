@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/igornfaustino/real-time-tweets/issues"
   },
-  "homepage": "https://github.com/igornfaustino/real-time-tweets#readme"
+  "homepage": "https://github.com/igornfaustino/real-time-tweets#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "socket.io": "^2.2.0",
+    "twit": "^2.2.11"
+  }
 }
