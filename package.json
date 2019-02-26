@@ -1,0 +1,20 @@
+{
+  "name": "real-time-tweets",
+  "version": "1.0.0",
+  "description": "Learn how to use the twitter real time API in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igornfaustino/real-time-tweets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igornfaustino/real-time-tweets/issues"
+  },
+  "homepage": "https://github.com/igornfaustino/real-time-tweets#readme"
+}
